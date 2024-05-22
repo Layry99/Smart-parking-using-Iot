@@ -1,6 +1,7 @@
 # Smart-parking-using-Iot
 
 Overview of this project
+
 A Smart Parking System functions as a helpful assistant for parking, employing specialized sensors to discern whether parking spots are available or occupied. 
 These sensors communicate with an intelligent computer, like the Arduino, which in turn connects to a robust cloud-based system using Wi-Fi. 
 The cloud system continually updates in real-time, informing individuals about the availability of parking spaces. 
