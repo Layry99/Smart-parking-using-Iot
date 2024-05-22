@@ -23,6 +23,7 @@ The Arduino IoT Cloud Platform is a web-based service that allows users to monit
 In this case, the platform would be used to monitor the parking lot and display the availability of parking spaces.
 
 
+
 ![image](https://github.com/Layry99/Smart-parking-using-Iot/assets/161226676/7835c10b-1fb4-4ef7-a06e-95092f2e5297)
 
 Figure 2 : Circuit diagram of smart parking system
@@ -43,7 +44,9 @@ Finally, connect the other end of the resistor to the GND pin on the Arduino, es
 This setup ensures that the LEDs can be controlled by the Arduino, providing visual indicators based on the status of the Smart Parking System.
 
 
+
 ![image](https://github.com/Layry99/Smart-parking-using-Iot/assets/161226676/d5ac470e-d912-43ec-95cd-77dbb9b8d395)
+
 Figure 3 : Flow chart of smart parking system
 
 Firstly, the system starts when the program begins, and it gets ready by setting up its parts. After that, it connects to Wi-Fi so it can use the internet for sending and getting information. 
@@ -71,6 +74,8 @@ The correlation between sensor data and LED behavior underscores the successful 
 ![image](https://github.com/Layry99/Smart-parking-using-Iot/assets/161226676/daa03b27-ce76-41da-b25e-5722b5cf2e7d)
 
 Figure 4 : Cloud variables
+
+
 
 ![image](https://github.com/Layry99/Smart-parking-using-Iot/assets/161226676/f3782fac-aad3-48fa-9389-2bb73d4433e0)
 
